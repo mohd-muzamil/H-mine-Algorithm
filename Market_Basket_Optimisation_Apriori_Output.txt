@@ -1,0 +1,78 @@
+Input DataSet used is : Market_Basket_Optimisation.txt
+output_file is : Market_Basket_Optimisation_Apriori_Output.txt
+min_sup used by algorithm is : 151
+
+Frequent_Itemsets, Support
+shrimp #Supp: 518
+avocado #Supp: 229
+vegetables_mix #Supp: 168
+green_tea #Supp: 213
+honey #Supp: 257
+mineral_water #Supp: 1625
+salmon #Supp: 275
+frozen_smoothie #Supp: 312
+burgers #Supp: 633
+turkey #Supp: 456
+milk #Supp: 873
+energy_bar #Supp: 167
+whole_wheat_rice #Supp: 347
+whole_wheat_pasta #Supp: 212
+soup #Supp: 359
+frozen_vegetables #Supp: 689
+spaghetti #Supp: 1190
+eggs #Supp: 1046
+champagne #Supp: 193
+chocolate #Supp: 1008
+chicken #Supp: 402
+cooking_oil #Supp: 313
+fresh_tuna #Supp: 162
+tomatoes #Supp: 482
+french_fries #Supp: 809
+red_wine #Supp: 197
+pepper #Supp: 191
+ham #Supp: 193
+pancakes #Supp: 512
+grated_cheese #Supp: 371
+ground_beef #Supp: 705
+herb_&_pepper #Supp: 347
+cake #Supp: 474
+escalope #Supp: 290
+butter #Supp: 212
+olive_oil #Supp: 425
+french_wine #Supp: 161
+cookies #Supp: 229
+mineral_water,shrimp #Supp: 167
+mineral_water,burgers #Supp: 178
+mineral_water,milk #Supp: 337
+mineral_water,soup #Supp: 168
+mineral_water,frozen_vegetables #Supp: 253
+mineral_water,spaghetti #Supp: 428
+mineral_water,eggs #Supp: 326
+mineral_water,chocolate #Supp: 336
+mineral_water,chicken #Supp: 156
+mineral_water,tomatoes #Supp: 171
+mineral_water,french_fries #Supp: 181
+mineral_water,pancakes #Supp: 197
+mineral_water,ground_beef #Supp: 292
+mineral_water,cake #Supp: 163
+mineral_water,olive_oil #Supp: 181
+spaghetti,burgers #Supp: 154
+eggs,burgers #Supp: 188
+milk,frozen_vegetables #Supp: 170
+spaghetti,milk #Supp: 248
+milk,eggs #Supp: 191
+chocolate,milk #Supp: 203
+ground_beef,milk #Supp: 156
+spaghetti,frozen_vegetables #Supp: 196
+spaghetti,eggs #Supp: 227
+spaghetti,chocolate #Supp: 254
+spaghetti,french_fries #Supp: 152
+spaghetti,pancakes #Supp: 164
+spaghetti,ground_beef #Supp: 282
+spaghetti,olive_oil #Supp: 162
+chocolate,eggs #Supp: 194
+french_fries,eggs #Supp: 174
+french_fries,chocolate #Supp: 186
+ground_beef,chocolate #Supp: 151
+
+Total Frequent Itemset Count = 71

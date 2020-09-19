@@ -1,0 +1,42 @@
+Input DataSet used is : Random_Test.txt
+output_file is : Random_Test_Apriori_Output.txt
+min_sup used by algorithm is : 20
+
+Frequent_Itemsets, Support
+4 #Supp: 82
+6 #Supp: 90
+1 #Supp: 88
+8 #Supp: 94
+3 #Supp: 84
+5 #Supp: 80
+7 #Supp: 78
+9 #Supp: 60
+10 #Supp: 76
+2 #Supp: 68
+1,4 #Supp: 22
+3,4 #Supp: 20
+5,4 #Supp: 28
+7,4 #Supp: 20
+9,4 #Supp: 22
+10,4 #Supp: 26
+6,1 #Supp: 26
+8,6 #Supp: 22
+6,3 #Supp: 28
+5,6 #Supp: 24
+6,7 #Supp: 20
+6,9 #Supp: 20
+8,1 #Supp: 26
+3,1 #Supp: 24
+5,1 #Supp: 22
+1,7 #Supp: 24
+2,1 #Supp: 24
+8,3 #Supp: 24
+8,5 #Supp: 38
+8,10 #Supp: 22
+8,2 #Supp: 20
+5,3 #Supp: 22
+3,7 #Supp: 26
+10,5 #Supp: 22
+10,9 #Supp: 20
+
+Total Frequent Itemset Count = 35

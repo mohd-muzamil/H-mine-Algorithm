@@ -81,15 +81,16 @@ To Run the module :
 
 __________________________________________________________________________________________
 
-CONTACT INFO
+Developers:
 __________________________________________________________________________________________
-__________________________________________________________________________________________
+
+NAME: Mohamed Muzamil H
+Banner Id: B00838531
+Email: mohamed.muzamilh@dal.ca
 
 NAME: Aman Jaiswal                              
 Banner Id: B00857194
 Email: aman.jaiswal.dal.ca
 
-NAME: Mohamed Muzamil H
-Banner Id: B00838531
-Email: mohamed.muzamilh@dal.ca
+
 __________________________________________________________________________________________

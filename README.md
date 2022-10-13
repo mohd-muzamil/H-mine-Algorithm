@@ -83,9 +83,9 @@ Developers:
 __________________________________________________________________________________________
 
 NAME: Mohamed Muzamil H\
-Email: mohamed.muzamilh@dal.ca\
+Email: mohamed.muzamilh@dal.ca
 
 NAME: Aman Jaiswal\
-Email: aman.jaiswal@dal.ca\
+Email: aman.jaiswal@dal.ca
 
 __________________________________________________________________________________________

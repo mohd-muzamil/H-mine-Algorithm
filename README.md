@@ -1,6 +1,4 @@
 __________________________________________________________________________________________
----------------------------------------READ ME--------------------------------------------
-__________________________________________________________________________________________
 
 INSTRUCTION  : To run the Project_Main.py (Runs both the algorithm automatically)
 __________________________________________________________________________________________
@@ -10,7 +8,7 @@ Requirements: 3 Datasets provided with the project namely:
               2) Random_Test.txt
               3) Chess_data.txt
           
-# The Project_Main.py runs both the H_mine and Apriori algorithm for all the 3 datsets and
+#### The Project_Main.py runs both the H_mine and Apriori algorithm for all the 3 datsets and
   outputs the result into files.
  
  To Run the program :
@@ -40,7 +38,7 @@ ________________________________________________________________________________
 Instruction: To Run algorithm H_Mine_Algo.py or Apriori_Algo.py Invidually.
 __________________________________________________________________________________________
 
-# Any .txt dataset with items seprated by delimiter = " " can be used.
+#### Any .txt dataset with items seprated by delimiter = " " can be used.
 
 NOTE :Python interactive shell is used to run the runHmine() or runApriori().
 
@@ -90,7 +88,7 @@ Email: mohamed.muzamilh@dal.ca
 
 NAME: Aman Jaiswal                              
 Banner Id: B00857194
-Email: aman.jaiswal.dal.ca
+Email: aman.jaiswal@dal.ca
 
 
 __________________________________________________________________________________________
